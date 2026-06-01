@@ -18,9 +18,8 @@ This project detects human emotions from input data (e.g., text, audio, or image
 1. Ensure Python 3.8+ is installed.
 2. Clone this repository:
 
-   ```
-   git clone <repo-url>
-   ```
+   git clone <https://github.com/epmubashira325-bot/Emotion-Recognition-Using-Computer-Vision>
+   
 3. Install dependencies:
 
    ```
